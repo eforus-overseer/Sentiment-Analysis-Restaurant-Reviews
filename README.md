@@ -1,5 +1,13 @@
 ## Sentiment Analysis of Restaurant Reviews
 
+- **yelp_review_img.png**
+
+  ![Yelp Review Image](path_to_yelp_review_img.png)
+
+- **yelp-review-1.png**
+
+  ![Yelp Review 1](path_to_yelp_review_1.png)
+  
 ### Overview
 This project focuses on performing sentiment analysis on restaurant reviews to determine whether the reviews are positive or negative. The analysis is conducted using various machine learning techniques.
 
@@ -105,8 +113,14 @@ This project focuses on performing sentiment analysis on restaurant reviews to d
 
     ![Random Forest Confusion Matrix](path_to_random_forest_confusion_matrix.png)
 
+
 ### Conclusion
 The project demonstrates the process of building a sentiment analysis model using machine learning techniques. It highlights the importance of text preprocessing and the effectiveness of different models in classifying sentiments.
 
 ### Future Work
 Future improvements could include experimenting with different text vectorization techniques (e.g., TF-IDF), trying other machine learning models (e.g., SVM, LSTM), and tuning hyperparameters for better performance.
+
+
+- **LIVES-National-Screenshot_yelp.png**
+
+  ![LIVES-National Screenshot](path_to_LIVES_National_Screenshot_yelp.png)
