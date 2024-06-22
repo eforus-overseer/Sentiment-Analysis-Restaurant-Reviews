@@ -53,7 +53,7 @@ This project focuses on performing sentiment analysis on restaurant reviews to d
     ```
     ![Corpus_Visualization](https://github.com/eforus-overseer-Pecani/Sentiment-Analysis-Restaurant-Reviews/blob/main/Corpus_Visualization.png)
 
-    ![Text Cleaning Visualization](path_to_cleaning_visualization.png)
+    ![Text Cleaning Visualization](https://github.com/eforus-overseer-Pecani/Sentiment-Analysis-Restaurant-Reviews/blob/main/cleaning_visualization.png)
 
 4. **Creating the Bag of Words Model**
    The cleaned text data is transformed into a Bag of Words model, which converts the text data into numerical features suitable for machine learning algorithms.
@@ -65,7 +65,7 @@ This project focuses on performing sentiment analysis on restaurant reviews to d
     y = dataset.iloc[:, 1].values
     ```
 
-    ![Bag of Words Model Visualization](path_to_bag_of_words_visualization.png)
+    ![Bag of Words Model Visualization](https://github.com/eforus-overseer-Pecani/Sentiment-Analysis-Restaurant-Reviews/blob/main/Bag%20of%20Words%20Model%20Visualization.png)
 
 5. **Splitting the Dataset**
    The dataset is split into a training set and a test set to evaluate the performance of the machine learning models.
@@ -99,7 +99,7 @@ This project focuses on performing sentiment analysis on restaurant reviews to d
     cm = confusion_matrix(y_test, y_pred)
     ```
 
-    ![Naive Bayes Confusion Matrix](path_to_naive_bayes_confusion_matrix.png)
+    ![Naive Bayes Confusion Matrix](https://github.com/eforus-overseer-Pecani/Sentiment-Analysis-Restaurant-Reviews/blob/main/Naive%20Bayes%20Confusion%20Matrix.png)
 
 9. **Random Forest Model**
    In addition to the Naive Bayes model, a Random Forest model is trained and evaluated for comparison.
@@ -112,7 +112,7 @@ This project focuses on performing sentiment analysis on restaurant reviews to d
     cm = confusion_matrix(y_test, y_pred)
     ```
 
-    ![Random Forest Confusion Matrix](path_to_random_forest_confusion_matrix.png)
+    ![Random Forest Confusion Matrix](https://github.com/eforus-overseer-Pecani/Sentiment-Analysis-Restaurant-Reviews/blob/main/Random%20Forest%20Confusion%20Matrix.png)
 
 
 ### Conclusion
