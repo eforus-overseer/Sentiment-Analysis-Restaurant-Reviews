@@ -2,11 +2,11 @@
 
 - **yelp_review_img.png**
 
-  ![Yelp Review Image](path_to_yelp_review_img.png)
+  ![Yelp Review Image](https://github.com/eforus-overseer-Pecani/Sentiment-Analysis-Restaurant-Reviews/blob/main/yelp_review_img.png)
 
 - **yelp-review-1.png**
 
-  ![Yelp Review 1](path_to_yelp_review_1.png)
+  ![Yelp Review 1](https://github.com/eforus-overseer-Pecani/Sentiment-Analysis-Restaurant-Reviews/blob/main/yelp-review-1.png)
   
 ### Overview
 This project focuses on performing sentiment analysis on restaurant reviews to determine whether the reviews are positive or negative. The analysis is conducted using various machine learning techniques.
@@ -51,6 +51,7 @@ This project focuses on performing sentiment analysis on restaurant reviews to d
         review = ' '.join(review)
         corpus.append(review)
     ```
+    ![Corpus_Visualization](https://github.com/eforus-overseer-Pecani/Sentiment-Analysis-Restaurant-Reviews/blob/main/Corpus_Visualization.png)
 
     ![Text Cleaning Visualization](path_to_cleaning_visualization.png)
 
@@ -123,4 +124,4 @@ Future improvements could include experimenting with different text vectorizatio
 
 - **LIVES-National-Screenshot_yelp.png**
 
-  ![LIVES-National Screenshot](path_to_LIVES_National_Screenshot_yelp.png)
+  ![LIVES-National Screenshot](https://github.com/eforus-overseer-Pecani/Sentiment-Analysis-Restaurant-Reviews/blob/main/LIVES-National-Screenshot_yelp.png)
