@@ -1,10 +1,9 @@
 ## Sentiment Analysis of Restaurant Reviews
 
-- **yelp_review_img.png**
 
   ![Yelp Review Image](https://github.com/eforus-overseer-Pecani/Sentiment-Analysis-Restaurant-Reviews/blob/main/yelp_review_img.png)
 
-- **yelp-review-1.png**
+- **Yelp-Review-Sample.png**
 
   ![Yelp Review 1](https://github.com/eforus-overseer-Pecani/Sentiment-Analysis-Restaurant-Reviews/blob/main/yelp-review-1.png)
   
@@ -122,6 +121,5 @@ The project demonstrates the process of building a sentiment analysis model usin
 Future improvements could include experimenting with different text vectorization techniques (e.g., TF-IDF), trying other machine learning models (e.g., SVM, LSTM), and tuning hyperparameters for better performance.
 
 
-- **LIVES-National-Screenshot_yelp.png**
 
-  ![LIVES-National Screenshot](https://github.com/eforus-overseer-Pecani/Sentiment-Analysis-Restaurant-Reviews/blob/main/LIVES-National-Screenshot_yelp.png)
+![LIVES-National Screenshot](https://github.com/eforus-overseer-Pecani/Sentiment-Analysis-Restaurant-Reviews/blob/main/LIVES-National-Screenshot_yelp.png)
