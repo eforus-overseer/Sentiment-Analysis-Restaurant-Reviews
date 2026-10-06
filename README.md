@@ -123,3 +123,11 @@ Future improvements could include experimenting with different text vectorizatio
 
 
 ![LIVES-National Screenshot](https://github.com/Efi-Pecani/Sentiment-Analysis-Restaurant-Reviews/blob/main/LIVES-National-Screenshot_yelp.png)
+
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/sentiment-analysis-restaurant-reviews/) — Explore the project, its method, and available demos or original artifacts.
+<!-- demo-lab:end -->
