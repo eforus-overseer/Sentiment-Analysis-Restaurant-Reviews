@@ -131,3 +131,11 @@ Future improvements could include experimenting with different text vectorizatio
 
 [Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/sentiment-analysis-restaurant-reviews/) — Explore the project, its method, and available demos or original artifacts.
 <!-- demo-lab:end -->
+
+
+<!-- codex-pixel-art -->
+## Pixel art
+
+![Pixel art for Sentiment-Analysis-Restaurant-Reviews](assets/pixel-art.svg)
+
+A small visual signature for this repository.
